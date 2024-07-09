@@ -1,0 +1,2 @@
+# Crafting-a-Dynamic-Cricket-Team-through-Data-Analysis-and-Power-BI
+"Unleashing Cricket's Potential 📊." Leveraging Python and Pandas, I've analyzed player stats from Kaggle, uncovering insights into batting averages, bowling efficiencies, and strategic trends. Using Power BI, I've created dynamic dashboards to visualize team evolution in real-time, redefining cricket strategy through data-driven insights.
